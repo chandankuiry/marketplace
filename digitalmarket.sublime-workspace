@@ -1,0 +1,860 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"Pro",
+				"ProductAdmin"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"s",
+				"species"
+			],
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"u",
+				"uppercut"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"t",
+				"tolife"
+			],
+			[
+				"pr",
+				"printfunction"
+			],
+			[
+				"N",
+				"NameError"
+			],
+			[
+				"pal",
+				"palindromestring"
+			],
+			[
+				"pa",
+				"palindromestring"
+			],
+			[
+				"palindrome",
+				"palindromedeque"
+			],
+			[
+				"pali",
+				"palindromecheck"
+			],
+			[
+				"remove",
+				"removeFront"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"add",
+				"addRear"
+			],
+			[
+				"D",
+				"Deque"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"parche",
+				"parchecker2"
+			],
+			[
+				"sy",
+				"symbol"
+			],
+			[
+				"sym",
+				"symbol"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"sta",
+				"Stack"
+			],
+			[
+				"Mit",
+				"Mitperson"
+			],
+			[
+				"te",
+				"teaching"
+			],
+			[
+				"m",
+				"Mitperson"
+			],
+			[
+				"get",
+				"getIdNum"
+			],
+			[
+				"f",
+				"familyName"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"fam",
+				"familyName"
+			],
+			[
+				"fan",
+				"familyName"
+			],
+			[
+				"to",
+				"toWhom"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"bored",
+				"border"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"new",
+				"newnum"
+			],
+			[
+				"news",
+				"newscore"
+			],
+			[
+				"nwe",
+				"newscore"
+			],
+			[
+				"go",
+				"goalstring"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"message",
+				"messages"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"sendCurr",
+				"sendCurrentUsers"
+			],
+			[
+				"current",
+				"sendCurrentUsers"
+			],
+			[
+				"so",
+				"socketId"
+			],
+			[
+				"o",
+				"Object"
+			],
+			[
+				"valu",
+				"valueOf"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"join",
+				"joined"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"require",
+				"requireAuthentication"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"co",
+				"completed"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"token",
+				"tokenData"
+			],
+			[
+				"dec",
+				"decodedJWT"
+			],
+			[
+				"encr",
+				"encryptedData"
+			],
+			[
+				"st",
+				"stringData"
+			],
+			[
+				"cr",
+				"cryptojs"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"has",
+				"hashedPassword"
+			],
+			[
+				"d",
+				"DataTypes"
+			],
+			[
+				"fi",
+				"findById"
+			],
+			[
+				"r",
+				"rowsDeleted"
+			],
+			[
+				"tod",
+				"todoId"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"c",
+				"completed"
+			],
+			[
+				"json",
+				"toJSON"
+			],
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"quey",
+				"queryparams"
+			],
+			[
+				"que",
+				"queryparams"
+			],
+			[
+				"ha",
+				"hasOwnProperty"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"is",
+				"isBoolean"
+			],
+			[
+				"bod",
+				"body"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ma",
+				"matchedTodo"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"anima",
+				"animalObject"
+			],
+			[
+				"per",
+				"personJson"
+			],
+			[
+				"pe",
+				"personJson"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"ac",
+				"accountName"
+			],
+			[
+				"a",
+				"account"
+			],
+			[
+				"cha",
+				"chandanAccount"
+			],
+			[
+				"ch",
+				"chandanAccount"
+			],
+			[
+				"chandan",
+				"chandanAccount"
+			],
+			[
+				"matching",
+				"matchingAccount"
+			],
+			[
+				"g",
+				"greetUser"
+			],
+			[
+				"ge",
+				"getBalance"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"fro",
+				"from_message"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"fr",
+				"from_email"
+			],
+			[
+				"E",
+				"EMAIL_PORT"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"C",
+				"ContactForm"
+			],
+			[
+				"F",
+				"form"
+			],
+			[
+				"full_",
+				"full_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/digitalmarket/settings.py",
+			"settings":
+			{
+				"buffer_size": 2937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/models.py",
+			"settings":
+			{
+				"buffer_size": 457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/admin.py",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/chandan/dm",
+		"/home/chandan/dm/src",
+		"/home/chandan/dm/src/digitalmarket",
+		"/home/chandan/dm/src/products",
+		"/home/chandan/dm/src/products/migrations"
+	],
+	"file_history":
+	[
+		"/home/chandan/dm/src/products/models.py",
+		"/home/chandan/Desktop/sockets/public/chat.html",
+		"/home/chandan/Desktop/datastructure/checkfloat.py",
+		"/home/chandan/Desktop/datastructure/dequedefine.py",
+		"/home/chandan/Desktop/datastructure/palindromechecker.py",
+		"/home/chandan/anaconda2/envs/dato-env/chandan.ipynb",
+		"/home/chandan/Desktop/node-course/node-basics/array.js",
+		"/home/chandan/Desktop/node-course/node-basics/this.js",
+		"/home/chandan/Desktop/node-course/node-basics/prototype.js",
+		"/home/chandan/Desktop/node-course/node-basics/map.js",
+		"/home/chandan/Desktop/password-manager/.gitignore",
+		"/home/chandan/Desktop/async/.gitignore",
+		"/home/chandan/Desktop/mongodb/.gitignore",
+		"/home/chandan/Desktop/sockets/public/index.html",
+		"/home/chandan/Desktop/sockets/server.js",
+		"/home/chandan/Desktop/algorithmcode/dequedefine.py",
+		"/home/chandan/Desktop/algorithmcode/palindromechecker.py",
+		"/home/chandan/Desktop/mitpython/class1.py",
+		"/home/chandan/Desktop/algorithmcode/queuedefine.py",
+		"/home/chandan/Desktop/algorithmcode/hotpotato.py",
+		"/home/chandan/Desktop/algorithmcode/balancedparentheses.py",
+		"/home/chandan/Desktop/algorithmcode/infixtopostfix.py",
+		"/home/chandan/Desktop/algorithmcode/decmtobinary.py",
+		"/home/chandan/Desktop/algorithmcode/dcimaltoany.py",
+		"/home/chandan/Desktop/algorithmcode/stackdefine.py",
+		"/home/chandan/Desktop/algorithmcode/balancedparentheses1.py",
+		"/home/chandan/Desktop/algorithmcode/stack.py",
+		"/home/chandan/Desktop/nodejsecommerce/dateofbirth.js",
+		"/home/chandan/Desktop/nodejsecommerce/package.json",
+		"/home/chandan/Desktop/pythoncode/sqrt.py",
+		"/home/chandan/Desktop/pythoncode/fractionclass1.py",
+		"/home/chandan/Desktop/webtechlab/mystyle.css",
+		"/home/chandan/Desktop/webtechlab/student_login.html",
+		"/home/chandan/Desktop/nodejsecommerce/index.js",
+		"/home/chandan/Desktop/student_information_system/style.css",
+		"/home/chandan/Desktop/webtechlab/registration.jpg",
+		"/home/chandan/Desktop/student_information_system/stu_homepage.css",
+		"/home/chandan/Desktop/student_information_system/stu_homepage.html",
+		"/home/chandan/Desktop/student_information_system/home.html",
+		"/home/chandan/Desktop/mongodb/app.js",
+		"/home/chandan/Desktop/student_information_system/index.html",
+		"/home/chandan/Desktop/pythoncode/classbasic.py",
+		"/home/chandan/Desktop/pythoncode/shakesmonkey.py",
+		"/home/chandan/Desktop/mongodb/package.json",
+		"/home/chandan/Desktop/mongodb/views/hello.html",
+		"/home/chandan/Desktop/chatapp/package.json",
+		"/home/chandan/Desktop/chatapp/app.js",
+		"/home/chandan/Desktop/chatapp/drawing1.xml",
+		"/home/chandan/Desktop/chatapp/views/layout.jade",
+		"/home/chandan/Desktop/chatapp/views/index.jade",
+		"/home/chandan/Desktop/chatapp/views/.index.jade.swp",
+		"/home/chandan/Desktop/chatapp/public/javascripts/chat.js",
+		"/home/chandan/Desktop/chatapp/views/chat.jade",
+		"/home/chandan/Desktop/chatapp/routes/chat.js",
+		"/home/chandan/Desktop/chatapp/routes/index.js",
+		"/home/chandan/Desktop/chatapp/routes/user.js",
+		"/home/chandan/Desktop/chatapp/public/stylesheets/chat.css",
+		"/home/chandan/Desktop/chatapp/public/stylesheets/style.css",
+		"/home/chandan/Desktop/chatapp/public/javascript/jquery/jquery-1.7.min.js",
+		"/home/chandan/Desktop/mongodb/npm-debug.log",
+		"/home/chandan/Desktop/sockets/public/css/style.css",
+		"/home/chandan/Desktop/sockets/public/js/app.js",
+		"/home/chandan/Desktop/sockets/public/css/bootstrap.min.css",
+		"/home/chandan/Desktop/sockets/public/js/QueryParams.js",
+		"/home/chandan/Desktop/sockets/public/js/chat.html",
+		"/home/chandan/Desktop/sockets/moment-example.js",
+		"/home/chandan/Desktop/sockets/.gitignore",
+		"/home/chandan/Desktop/node-course/todo-api/.gitignore",
+		"/home/chandan/Desktop/node-course/todo-api/db.js",
+		"/home/chandan/Desktop/node-course/todo-api/models/user.js",
+		"/home/chandan/Desktop/node-course/todo-api/models/token.js",
+		"/home/chandan/Desktop/node-course/todo-api/server.js",
+		"/home/chandan/Desktop/node-course/todo-api/middleware.js",
+		"/home/chandan/Desktop/node-course/todo-api/playground/basic-sqlite-database.js",
+		"/home/chandan/Desktop/node-course/todo-api/models/todo.js",
+		"/home/chandan/Desktop/node-course/todo-api/data/.keep",
+		"/home/chandan/Desktop/node-course/todo-api/variable-playground.js",
+		"/home/chandan/Desktop/node-course/todo-api/playground/basic-sqlite-database.sqlite",
+		"/home/chandan/Desktop/node-course/todo-api/basic-sqlite-database.sqlite",
+		"/home/chandan/Desktop/node-course/todo-api/node_modules/basic-sqlite-database.js",
+		"/home/chandan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/chandan/Desktop/node-course/todo-api/package.json",
+		"/home/chandan/Desktop/node-course/web-server/server.js",
+		"/home/chandan/Desktop/node-course/web-server/public/index.html",
+		"/home/chandan/Desktop/node-course/web-server/.gitignore",
+		"/home/chandan/Desktop/node-course/web-server/middleware.js",
+		"/home/chandan/Desktop/node-course/async/hello-async.js",
+		"/home/chandan/Desktop/node-course/async/package.json",
+		"/home/chandan/Desktop/node-course/async/example-callback.js",
+		"/home/chandan/Desktop/node-course/password-manager/app.js",
+		"/home/chandan/Desktop/node-course/password-manager/example-try-catch.js",
+		"/home/chandan/Desktop/node-course/password-manager/example-try-catch.js\\",
+		"/home/chandan/Desktop/node-course/password-manager/example-args.js",
+		"/home/chandan/Desktop/node-course/password-manager/example-json.js",
+		"/home/chandan/Desktop/node-course/password-manager/example-encryption.js",
+		"/home/chandan/Desktop/node-course/password-manager/package.json",
+		"/home/chandan/Desktop/node-basics/boolean.js",
+		"/home/chandan/Desktop/node-basics/closure.js",
+		"/home/chandan/Desktop/node-basics/scope.js",
+		"/home/chandan/Desktop/node-basics/loop.js",
+		"/home/chandan/Desktop/node-basics/array.js",
+		"/home/chandan/Desktop/node-basics/undefined.js",
+		"/home/chandan/Desktop/node-basics/bank-account.js",
+		"/home/chandan/Desktop/node-basics/bank-account2.js",
+		"/home/chandan/Desktop/node-basics/scope,js",
+		"/home/chandan/Desktop/node-basics/hello-world.js",
+		"/home/chandan/Desktop/node-basics/variables.js",
+		"/home/chandan/Desktop/node-basics/object.js",
+		"/home/chandan/Desktop/node-basics/if.js",
+		"/home/chandan/Desktop/node-basics/function.js",
+		"/home/chandan/Desktop/node-basics/OBJECT.JS",
+		"/home/chandan/trydjango_1.8/src/trydjango18/settings.py",
+		"/home/chandan/trydjango_1.8/src/newsletter/views.py",
+		"/home/chandan/trydjango_1.8/src/newsletter/admin.py",
+		"/home/chandan/trydjango_1.8/src/newsletter/admin.py~",
+		"/home/chandan/calculator.py",
+		"/home/chandan/masteringdjango.com/deploying-django/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			"/home/chandan/Desktop/node-course/todo-api/models"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	<form action=\"/chat.html\">\n						<div class=\"form-group\">\n				<label>Display Name</label>\n				<input type=\"text\" name=\"name\" class=\"form-control\" placeholder=\" Your name \"/>\n			</div>\n			<div class=\"form-group\">\n				<label>Room Name</label>\n				<input type=\"text\" name=\"room\" class=\"form-control\"  placeholder=\" Room name\"/>\n				\n			</div>\n			<div class=\"form-group\">\n				<input type=\"submit\" value=\"Join Chat\" class=\"btn btn-success\"/>\n				\n			</div>\n			\n			\n			\n		</form>",
+			"<!doctype html>\n<html>\n	<head>\n		<meta charset=\"UTF-8\">\n		<title>Socket.io Basics</title>\n	</head>\n	<body>\n		\n	</body>\n</html>",
+			"s",
+			"true",
+			"var request=require('request');\nvar url='http://api.openweathermap.org/data/2.5/weather?q=kolkata&units=imperial&appid=2de143494c0b295cca9337e1e96b00e0';\nrequest({\n	url:url,\n	json:true\n},function (error,response,body){\n	if(error){\n		console.log('unable to fetch the weather');\n\n	}else{\n		console.log(JSON.stringify(body,null, 4));\n		console.log('It\\'s ' + body.main.temp + 'in' + body.name);\n	}\n});console.log('after the request');",
+			"var request=require('request');\nvar url='http://api.openweathermap.org/data/2.5/weather?q=kolkata&units=imperial&appid=2de143494c0b295cca9337e1e96b00e0\nvar url='http://api.openweathermap.org/data/2.5/weather?q=kolkata&units=imperial&appid=2de143494c0b295cca9337e1e96b00e0';\nrequest({\n	url:url,\n	json:true\n},function (error,response,body){\n	if(error){\n		console.log('unable to fetch the weather');\n\n	}else{\n		console.log(JSON.stringify(body,null, 4));\n		console.log('It\\'s ' + body.main.temp + 'in' + body.name);\n	}\n});console.log('after the request');",
+			"console.log('starting password manager');\n\nvar crypto = require('crypto-js')\nvar storage = require('node-persist');\nstorage.initSync();\n\nvar argv = require('yargs')\n	.command('create', 'Create a new account', function (yargs) {\n		yargs.options({\n			name: {\n				demand: true,\n				alias: 'n',\n				description: 'Account name (eg: Twitter, Facebook)',\n				type: 'string'\n			},\n			username: {\n				demand: true,\n				alias: 'u',\n				description: 'Account username or email',\n				type: 'string'\n			},\n			password: {\n				demand: true,\n				alias: 'p',\n				description: 'Account password',\n				type: 'string'\n			},\n			masterPassword: {\n				demand: true,\n				alias: 'm',\n				description: 'Master password',\n				type: 'string'\n			}\n		}).help('help');\n	})\n	.command('get', 'Get an existing account', function (yargs) {\n		yargs.options({\n			name: {\n				demand: true,\n				alias: 'n',\n				description: 'Account name (eg: Twitter, Facebook)',\n				type: 'string'\n			},\n			masterPassword: {\n				demand: true,\n				alias: 'm',\n				description: 'Master password',\n				type: 'string'\n			}\n		}).help('help');\n	})\n	.help('help')\n	.argv;\nvar command = argv._[0];\n\n// create\n//     --name\n//     --username\n//     --password\n\n// get\n//     --name\n\n// account.name Facebook\n// account.username User12!\n// account.password Password123!\n\nfunction getAccounts (masterPassword) {\n	// use getItemSync to fetch accounts\n	var encryptedAccount = storage.getItemSync('accounts');\n	var accounts = [];\n\n	// decrypt\n	if (typeof encryptedAccount !== 'undefined') {\n		var bytes = crypto.AES.decrypt(encryptedAccount, masterPassword);\n		accounts = JSON.parse(bytes.toString(crypto.enc.Utf8));\n	}\n\n	// return accounts array\n	return accounts;\n}\n\nfunction saveAccounts (accounts, masterPassword) {\n	// encrypt accounts\n	var encryptedAccounts = crypto.AES.encrypt(JSON.stringify(accounts), masterPassword);\n	\n	// setItemSync\n	storage.setItemSync('accounts', encryptedAccounts.toString());\n	\n	// return accounts\n	return accounts;\n}\n\nfunction createAccount (account, masterPassword) {\n	var accounts = getAccounts(masterPassword);\n\n	accounts.push(account);\n\n	saveAccounts(accounts, masterPassword);\n\n	return account;\n}\n\nfunction getAccount (accountName, masterPassword) {\n	var accounts = getAccounts(masterPassword)\n	var matchedAccount;\n\n	accounts.forEach(function (account) {\n		if (account.name === accountName) {\n			matchedAccount = account;\n		}\n	});\n\n	return matchedAccount;\n}\n\nif (command === 'create') {\n	var createdAccount = createAccount({\n		name: argv.name,\n		username: argv.username,\n		password: argv.password\n	}, argv.masterPassword);\n	console.log('Account created!');\n	console.log(createdAccount);\n} else if (command === 'get') {\n	var fetchedAccount = getAccount(argv.name, argv.masterPassword);\n\n	if (typeof fetchedAccount === 'undefined') {\n		console.log('Account not found');\n	} else {\n		console.log('Account found!');\n		console.log(fetchedAccount);\n	}\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"console.log('starting password manager');\n\nvar storage = require('node-persist');\nstorage.initSync();\n\n account.name Facebook\n\n\nfunction createAccount (account) {\n	var accounts = storage.getItemSync('accounts');\n\n	if (typeof accounts === 'undefined') {\n		accounts = [];\n	}\n\n	accounts.push(account);\n	storage.setItemSync('accounts', accounts);\n\n	return account;\n}\n\nfunction getAccount (accountName) {\n	var accounts = storage.getItemSync('accounts');\n	var matchedAccount;\n\n	accounts.forEach(function (account) {\n		if (account.name === accountName) {\n			matchedAccount = account;\n		}\n	});\n\n	return matchedAccount;\n}\n\n// createAccount({\n// 	name: 'Facebook',\n// 	username: 'someemail@gmail.com',\n// 	password: 'Password123!'\n// });\n\nvar facebookAccount = getAccount('Facebook');\nconsole.log(facebookAccount);",
+			"console.log('starting password manager');\nvar storage=require('node-persist');\nstorage.initSync();\n\n\n\n\nfunction createAccount(account){\n	var accounts =storage.getItemSync('accounts');\n	if(typeof accounts==='undefined'){\n		accounts=[];\n	}\n	accounts.push(account);\n	storage.setItemSync('accounts',accounts)\n	return account;\n}\nfunction getAccount(accountName){\n	var accounts=storage.getItemSync(\"accounts\");\n	var matchingAccount;\n	accounts.forEach(function(account){\n		if(account.name===accountName){\n			matchingAccount=account;\n		}\n\n	});\n	return matchingAccount;\n	\n}	\n//var argv = require('yargs')\n	.command('hello', 'Greets the user', function (yargs) {\n		yargs.options({\n			name: {\n				demand: true,\n				alias: 'n',\n				description: 'Your first name goes here',\n				type: 'string'\n			},\n			lastname: {\n				demand: true,\n				alias: 'l',\n				description: 'Your last name goes here',\n				type: 'string'\n			}\n		}).help('help');\n	})\n	.command('get', 'some description', function (yargs) {\n\n	})\n	.help('help')\n	.argv;\nvar command = argv._[0];\n\nconsole.log(argv);\n\nif (command === 'hello' && typeof argv.name !== 'undefind' && typeof argv.lastname !== 'undefined') {\n	console.log('Hello ' + argv.name + ' ' + argv.lastname + '!');	\n} else if (command === 'hello' && typeof argv.name !== 'undefined') {\n	console.log('Hello ' + argv.name + '!');\n} else if (command === 'hello') {\n	console.log('Hello world!');\n}\nvar facebookAccount=getAccount('facebook');\nconsole.log(facebookAccount)",
+			"var argv = require('yargs')\n	.command('hello', 'Greets the user', function (yargs) {\n		yargs.options({\n			name: {\n				demand: true,\n				alias: 'n',\n				description: 'Your first name goes here',\n				type: 'string'\n			},\n			lastname: {\n				demand: true,\n				alias: 'l',\n				description: 'Your last name goes here',\n				type: 'string'\n			}\n		}).help('help');\n	})\n	.command('get', 'some description', function (yargs) {\n\n	})\n	.help('help')\n	.argv;\nvar command = argv._[0];\n\nconsole.log(argv);\n\nif (command === 'hello' && typeof argv.name !== 'undefind' && typeof argv.lastname !== 'undefined') {\n	console.log('Hello ' + argv.name + ' ' + argv.lastname + '!');	\n} else if (command === 'hello' && typeof argv.name !== 'undefined') {\n	console.log('Hello ' + argv.name + '!');\n} else if (command === 'hello') {\n	console.log('Hello world!');\n}",
+			"var argv=require('yargs')\n	.command('hello','Greets the user',function (yargs){\n		yargs.options({\n			name:{\n				demand:true,\n				alias:'n',\n				description: 'your first name goes here'\n			}\n		}).help('help');\n	})\n	.help('help');\n	.argv;\nvar command = argv._[0];\nconsole.log(argv);\n\nif (command === 'hello' && typeof argv.name !== 'undefind' && typeof argv.lastname !== 'undefined') {\n	console.log('Hello ' + argv.name + ' ' + argv.lastname + '!');	\n} else if (command === 'hello' && typeof argv.name !== 'undefined') {\n	console.log('Hello ' + argv.name + '!');\n} else if (command === 'hello') {\n	console.log('Hello world!');\n}",
+			"var andrewsAccount = createAccount({\n	username: 'Andrew',\n	balance: 0\n});\n\ndeposit(andrewsAccount, 100);\nconsole.log(getBalance(andrewsAccount));\n\nwithdraw(andrewsAccount, 11);\nconsole.log(getBalance(andrewsAccount));\n\nvar existingAccount = getAccount('Andrew');\nconsole.log(getBalance(andrewsAccount));\n\nvar jensAccount = createAccount({\n	username: 'jen001',\n	balance: 12\n});\n\nconsole.log(accounts);\n\nvar exitingJensAccount = getAccount('jen001');\nconsole.log(exitingJensAccount);\n\n\n\n",
+			"##Code :\nfrom Tkinter import *\nimport Pmw, string\nclass SLabel(Frame):\n#“”\" SLabel defines a 2-sided label within a Frame. The\n#left hand label has blue letters the right has white letters ”\"”\ndef __init__(self, master, leftl, rightl):\nFrame.__init__(self, master, bg=‘gray40‘)\nself.pack(side=LEFT, expand=YES, fill=BOTH)\nLabel(self, text=leftl, fg=‘steelblue1‘,\nfont=(“arial”, 6, “bold”), width=5, bg=‘gray40‘).pack(\nside=LEFT, expand=YES, fill=BOTH)\nLabel(self, text=rightl, fg=‘white‘,\nfont=(“arial”, 6, “bold”), width=1, bg=‘gray40‘).pack(\nside=RIGHT, expand=YES, fill=BOTH)\nclass Key(Button):\ndef __init__(self, master, font=(‘arial‘, 8, ‘bold‘), \nfg=‘white‘,width=5, borderwidth=5, **kw):\nkw['font'] = font\nkw['fg'] = fg\nkw['width'] = width\nkw['borderwidth'] = borderwidth\napply(Button.__init__, (self, master), kw)\nself.pack(side=LEFT, expand=NO, fill=NONE)\nclass Calculator(Frame):\ndef __init__(self, parent=None):\nFrame.__init__(self, bg=‘gray40‘)\nself.pack(expand=YES, fill=BOTH)\nself.master.title(‘CodePlaza.org-LeoHarsha(HITECH Calculator)‘)\nself.master.iconname(‘Tk-42‘)\nself.calc = Evaluator() # This is our evaluator\nself.buildCalculator() # Build the widgets\n# This is an incomplete dictionary - a good exercise!\nself.actionDict = {‘second‘: self.doThis, ‘mode‘: self.doThis,\n‘delete‘: self.doThis, ‘alpha‘: self.doThis,\n‘stat‘: self.doThis, ‘math‘: self.doThis,\n‘matrix‘: self.doThis, ‘program‘: self.doThis,\n‘vars‘: self.doThis, ‘clear‘: self.clearall,\n‘sin‘: self.doThis, ‘cos‘: self.doThis,\n‘tan‘: self.doThis, ‘up’: self.doThis,\n‘X1′: self.doThis, ‘X2′: self.doThis,\n‘log‘: self.doThis, ‘ln’: self.doThis,\n‘store‘: self.doThis, ‘off‘: self.turnoff,\n‘neg‘: self.doThis, ‘enter‘: self.doEnter,\n}\nself.current = “”\ndef doThis(self,action):\nprint ‘”%s“ has not been implemented’ % action\ndef turnoff(self, *args):\nself.quit()\ndef clearall(self, *args):\nself.current = ”\"\nself.display.component(‘text’).delete(1.0, END)\ndef doEnter(self, *args):\nresult = self.calc.runpython(self.current)\nif result:\n	self.display.insert(END, ’n')\n	self.display.insert(END, ’%sn’ % result, ’ans’)\nself.current = ”\"\ndef doKeypress(self, event):\nkey = event.char\nif not key in ['b']:\nself.current = self.current + event.char\nif key == ’b':\nself.current = self.current[:-1]\ndef keyAction(self, key):\nself.display.insert(END, key)\nself.current = self.current + key\ndef evalAction(self, action):\ntry:\nself.actionDict[action](action)\nexcept KeyError:\npass\ndef buildCalculator(self):\nFUN = 1 # Designates a Function\nKEY = 0 # Designates a Key\nKC1 = ’gray30′ # Dark Keys\nKC2 = ’gray50′ # Light Keys\nKC3 = ’steelblue1′ # Light Blue Key\nKC4 = ’steelblue’ # Dark Blue Key\nkeys = [\n[('2nd', '', '', KC3, FUN, 'second'), # Row 1\n('Mode', 'Quit', '', KC1, FUN, 'mode'),\n('Del', 'Ins', '', KC1, FUN, 'delete'),\n('Alpha','Lock', '', KC2, FUN, 'alpha'),\n('Stat', 'List', '', KC1, FUN, 'stat')],\n[('Math', 'Test', 'A', KC1, FUN, 'math'), # Row 2\n('Mtrx', 'Angle','B', KC1, FUN, 'matrix'),\n('Prgm', 'Draw', 'C', KC1, FUN, 'program'),\n('Vars', 'YVars','', KC1, FUN, 'vars'),\n('Clr', '', '', KC1, FUN, 'clear')], \n[('X-1', 'Abs', 'D', KC1, FUN, 'X1'), # Row 3\n('Sin', 'Sin-1','E', KC1, FUN, 'sin'),\n('Cos', 'Cos-1','F', KC1, FUN, 'cos'),\n('Tan', 'Tan-1','G', KC1, FUN, 'tan'),\n('^', 'PI', 'H', KC1, FUN, 'up')],\n[('X2', 'Root', 'I', KC1, FUN, 'X2'), # Row 4\n(',', 'EE', 'J', KC1, KEY, ','),\n('(', '{', 'K', KC1, KEY, '('),\n(')', '}', 'L', KC1, KEY, ')'),\n('/', '', 'M', KC4, KEY, '/')],\n[('Log', '10x', 'N', KC1, FUN, 'log'), # Row 5\n('7', 'Un-1', 'O', KC2, KEY, '7'),\n('8', 'Vn-1', 'P', KC2, KEY, '8'),\n('9', 'n', 'Q', KC2, KEY, '9'),\n('X', '[', 'R', KC4, KEY, '*')],\n[('Ln', 'ex', 'S', KC1, FUN, 'ln'), # Row 6\n('4', 'L4', 'T', KC2, KEY, '4'),\n('5', 'L5', 'U', KC2, KEY, '5'),\n('6', 'L6', 'V', KC2, KEY, '6'),\n('-', ']‘, ’W', KC4, KEY, ’-')],\n[('STO', 'RCL', 'X', KC1, FUN, 'store'), # Row 7\n('1', 'L1', 'Y', KC2, KEY, '1'),\n('2', 'L2', 'Z', KC2, KEY, '2'),\n('3', 'L3', '', KC2, KEY, '3'),\n('+', 'MEM', '\"', KC4, KEY, '+')],\n[('Off', '', '', KC1, FUN, 'off'), # Row 8\n('0', '', '', KC2, KEY, '0'),\n('.', ':', '', KC2, KEY, '.'),\n('(-)', 'ANS', '?', KC2, FUN, 'neg'),\n('Enter','Entry','', KC4, FUN, 'enter')]]\nself.display = Pmw.ScrolledText(self, hscrollmode=‘dynamic‘,\nvscrollmode=‘dynamic‘, hull_relief=‘sunken‘,\nhull_background=‘gray40‘, hull_borderwidth=10, \ntext_background=‘honeydew4‘, text_width=16,\ntext_foreground=‘black‘, text_height=6,\ntext_padx=10, text_pady=10, text_relief=‘groove‘,\ntext_font=(‘arial‘, 12, ‘bold‘))\nself.display.pack(side=TOP, expand=YES, fill=BOTH)\nself.display.tag_config(‘ans‘, foreground=‘white‘)\nself.display.component(‘text‘).bind(‘<Key>‘, self.doKeypress)\nself.display.component(‘text‘).bind(‘<Return>‘, self.doEnter)\nfor row in keys:\nrowa = Frame(self, bg=‘gray40‘)\nrowb = Frame(self, bg=‘gray40‘)\nfor p1, p2, p3, color, ktype, func in row:\nif ktype == FUN:\na = lambda s=self, a=func: s.evalAction(a)\nelse:\na = lambda s=self, k=func: s.keyAction(k)\nSLabel(rowa, p2, p3)\nKey(rowb, text=p1, bg=color, command=a)\nrowa.pack(side=TOP, expand=YES, fill=BOTH)\nrowb.pack(side=TOP, expand=YES, fill=BOTH)\nclass Evaluator:\ndef __init__(self):\nself.myNameSpace = {} \nself.runpython(“from math import *”)\ndef runpython(self, code):\ntry:\nreturn ‘eval(code, self.myNameSpace, self.myNameSpace)‘\nexcept SyntaxError:\ntry:\nexec code in self.myNameSpace, self.myNameSpace\nexcept:\nreturn ‘Error‘\nCalculator().mainloop()\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/digitalmarket/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1087,
+								1087
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/products/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 32.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 26.0
+	},
+	"pinned_build_system": "",
+	"project": "digitalmarket.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

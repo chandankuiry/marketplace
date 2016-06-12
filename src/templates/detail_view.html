@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block content %}
+<h1> product: {{ object }}</h1>
+{{block.super}} <!--here we inherits the page from base.html thats why we use extends base.html !-->
+{% endblock content %}

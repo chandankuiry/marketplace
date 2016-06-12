@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block style %}
+h1 {
+		color: green;
+	}
+{% endblock style %}
+
+{% block content %}
+	
+<h1> list view</h1>
+<h1> {{ queryset }}</h1>
+{{block.super}} <!--here we inherits the page from base.html thats why we use extends base.html !-->
+{% endblock content %}
