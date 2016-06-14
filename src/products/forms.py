@@ -7,10 +7,23 @@ PUBLISH_CHOICES = (
 )
 
 class ProductAddForm(forms.Form):
-	title = forms.CharField()
 	#here we use widgets to make a charfield to textarea if you want to learn about widgets then 
 	#https://docs.djangoproject.com/en/1.9/ref/forms/widgets/
-	description = forms.CharField(widget=forms.Textarea) #this might be a problem if we give it a textfield like model.py
+	title = forms.CharField(label='Your Title', widget= forms.TextInput(
+		attrs={
+			"class": "custom-class",
+			"placeholder": "Title",
+		}))
+	#this might be a problem if we give it a textfield like model.py
+	description = forms.CharField(widget=forms.Textarea(
+		#here we add the custom css part using widget
+			attrs={
+				"class": "my-custom-class",
+				"placeholder": "Description",
+				"some-attr": "this",
+			}
+	))
+
 	price  = forms.DecimalField()
 	publish = forms.ChoiceField(choices=PUBLISH_CHOICES, required=False)
 
