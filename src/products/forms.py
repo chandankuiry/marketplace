@@ -1,10 +1,18 @@
 from django import forms
 
+PUBLISH_CHOICES = (
+	('', ""),
+	('publish', "Publish"),
+	('draft', "Draft"),
+)
 
 class ProductAddForm(forms.Form):
 	title = forms.CharField()
-	description = forms.CharField() #this might be a problem if we give it a textfield like model.py
+	#here we use widgets to make a charfield to textarea if you want to learn about widgets then 
+	#https://docs.djangoproject.com/en/1.9/ref/forms/widgets/
+	description = forms.CharField(widget=forms.Textarea) #this might be a problem if we give it a textfield like model.py
 	price  = forms.DecimalField()
+	publish = forms.ChoiceField(choices=PUBLISH_CHOICES, required=False)
 
 	def clean_price(self):
 		price = self.cleaned_data.get("price")
