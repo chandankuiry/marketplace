@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"o",
+				"object_id"
+			],
+			[
+				"p",
+				"Product"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
 				"Pr",
 				"Product"
 			],
@@ -18,10 +30,6 @@
 			[
 				"s",
 				"species"
-			],
-			[
-				"p",
-				"prototype"
 			],
 			[
 				"u",
@@ -176,10 +184,6 @@
 				"goalstring"
 			],
 			[
-				"re",
-				"require"
-			],
-			[
 				"message",
 				"messages"
 			],
@@ -202,10 +206,6 @@
 			[
 				"so",
 				"socketId"
-			],
-			[
-				"o",
-				"Object"
 			],
 			[
 				"valu",
@@ -440,26 +440,26 @@
 	"buffers":
 	[
 		{
-			"file": "src/digitalmarket/settings.py",
+			"file": "src/products/views.py",
 			"settings":
 			{
-				"buffer_size": 2937,
+				"buffer_size": 711,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/products/models.py",
+			"file": "src/digitalmarket/urls.py",
 			"settings":
 			{
-				"buffer_size": 457,
+				"buffer_size": 926,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/products/admin.py",
+			"file": "src/templates/detail_view.html",
 			"settings":
 			{
-				"buffer_size": 410,
+				"buffer_size": 202,
 				"line_ending": "Unix"
 			}
 		}
@@ -517,7 +517,14 @@
 	],
 	"file_history":
 	[
+		"/home/chandan/dm/src/digitalmarket/settings.py",
+		"/home/chandan/dm/src/templates/list_view.html",
+		"/home/chandan/dm/src/templates/base.html",
 		"/home/chandan/dm/src/products/models.py",
+		"/home/chandan/dm/src/products/admin.py",
+		"/home/chandan/dm/CRUD.md",
+		"/home/chandan/dm/src/digitalmarket/urls.py",
+		"/home/chandan/dm/src/products/views.py",
 		"/home/chandan/Desktop/sockets/public/chat.html",
 		"/home/chandan/Desktop/datastructure/checkfloat.py",
 		"/home/chandan/Desktop/datastructure/dequedefine.py",
@@ -683,24 +690,53 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/digitalmarket/settings.py",
+					"file": "src/products/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2937,
+						"buffer_size": 711,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1087,
-								1087
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/digitalmarket/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								926,
+								926
 							]
 						],
 						"settings":
@@ -708,34 +744,6 @@
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 380.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/products/models.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 457,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								250,
-								250
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -746,30 +754,30 @@
 				},
 				{
 					"buffer": 2,
-					"file": "src/products/admin.py",
+					"file": "src/templates/detail_view.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 410,
+						"buffer_size": 202,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								180,
-								180
+								60,
+								60
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
-						"translation.x": 32.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -852,7 +860,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 210.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
